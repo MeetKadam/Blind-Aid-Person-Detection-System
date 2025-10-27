@@ -1,8 +1,3 @@
-That's the perfect final step\! A well-structured `README.md` makes your impressive "from scratch" project professional, understandable, and easy for anyone (including your instructor) to set up and test.
-
-Here is the complete `README.md` file for your **Blind Aid Object Detection System**.
-
------
 
 # 🧑‍🦯 Blind Aid Object Detection System
 
